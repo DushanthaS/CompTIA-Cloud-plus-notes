@@ -1,0 +1,6 @@
+[book]
+authors = ["Dushantha"]
+language = "en"
+multilingual = false
+src = "src"
+title = "CompTIA Cloud+ Notes"

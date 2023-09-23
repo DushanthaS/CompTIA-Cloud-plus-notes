@@ -1,4 +1,4 @@
-# Cloud Architecture and Design
+# Cloud Architecture and Deployment Models
 <br />
 <br />
 
