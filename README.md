@@ -8,5 +8,13 @@ This repository contains my comprehensive study notes for the CompTIA Cloud+ exa
 
 ✨ Contributions of any kind are welcome!
 
+ - To contribute to the study material, please follow these steps:
+    1.	Clone the repository.
+    2.	Make your changes to the .md files in the src folder.
+    3.	Create a pull request.
+    4.	Once it’s approved, your changes will be published to the GitHub Pages.
+
+
+
 You can also access a more visually appealing version of this on GitHub Pages: https://dushanthas.github.io/CompTIA-Cloud-plus-notes
 
